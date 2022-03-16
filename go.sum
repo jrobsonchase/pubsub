@@ -1,0 +1,4 @@
+github.com/jrobsonchase/LeveledLogger v0.0.0-20140116154434-243aab59cb1e h1:wKefTVcBm/Q9Iq2g3xlUtyE8zE5UobtyitYtlr3Q4jI=
+github.com/jrobsonchase/LeveledLogger v0.0.0-20140116154434-243aab59cb1e/go.mod h1:Tsm1wXbT4YsHVD0glrt7Bm4ClgqMFM1jZKGjK3rzG1s=
+github.com/jrobsonchase/syncmap v0.0.0-20140121170310-d1ce7126acfc h1:k7Ne7Qh4ZGu/VTtU79kck+6cTjzAJj08flzfsmZ0tpw=
+github.com/jrobsonchase/syncmap v0.0.0-20140121170310-d1ce7126acfc/go.mod h1:SgJ6Cx61sMCRbCZeBBd2m3Cyk7/z4AzhCKmE9F+P1w0=

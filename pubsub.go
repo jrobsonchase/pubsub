@@ -2,8 +2,8 @@ package pubsub
 
 import (
 	"math/rand"
-	"github.com/Pursuit92/LeveledLogger/log"
-	"github.com/Pursuit92/syncmap"
+	"github.com/jrobsonchase/LeveledLogger/log"
+	"github.com/jrobsonchase/syncmap"
 )
 
 type Matcher interface {
